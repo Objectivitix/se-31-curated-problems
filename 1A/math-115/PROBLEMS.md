@@ -2,6 +2,8 @@
 
 Source: MATH 115 Course Notes (September 9, 2026 revision).
 
+⭐ = really good problem.
+
 ## Chapter 1
 
 | **#** | **Why it's good** | **Notes** |
@@ -19,3 +21,14 @@ Source: MATH 115 Course Notes (September 9, 2026 revision).
 | 1.7.3 | Solving for unknowns (reverse problem). Part (b) has two strategies, which is even more interesting. | *Extension: What is a general way to find the shortest distance from a point to a line or a plane in R^n, as well as the corresponding point on the line/plane that leads to this distance?*
 | 1.7.5 | Solving for unknowns (reverse problem). | |
 | 1.7.6 | A satisfying proof with some algebra cardio. | |
+
+## Chapter 2
+| **#** | **Why it's good** | **Notes** |
+| --- | --- | --- |
+| 2.2.1(b,e,f) | Basic RREF practice with matrix sizes beyond what is usually done in high school. |  |
+| 2.2.3 | Connects System–Rank Theorem with geometry. |  |
+| 2.2.6 | Good food for thought about different RREF possibilities. |  |
+| 2.2.7 | Working with EROs at a higher level. |  |
+| 2.3.6 | This problem has further constraints aside from just system-solving, so it's not simply mechanical. The answers also make a lot of sense geometrically. |  |
+| ⭐ 2.3.7 | Challenging synthesis problem that tests geometrical intuition, diligent casework, careful row-reduction, algebraic reasoning, and all parts of the System–Rank Theorem. | *Note: Problems 2.3.3 through 2.3.5 are recommended before attempting this one.* |
+
