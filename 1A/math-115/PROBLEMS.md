@@ -7,7 +7,7 @@ Source: MATH 115 Course Notes (September 9, 2026 revision).
 ## Chapter 1
 
 | **#** | **Why it's good** | **Notes** |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | 1.1.7 | Gets you thinking about what considerations are needed if you ever implement linear algebra operations in code. |  |
 | 1.3.2 | Solving for unknowns (reverse problem). |  |
 | 1.3.3 | Connects vectors with geometry. | *Suggestion: Don't actually do this one, just think about the general strategy if given ANY four points.* |
@@ -24,7 +24,7 @@ Source: MATH 115 Course Notes (September 9, 2026 revision).
 
 ## Chapter 2
 | **#** | **Why it's good** | **Notes** |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | 2.2.1(b,e,f) | Basic RREF practice with matrix sizes beyond what is usually done in high school. |  |
 | 2.2.3 | Connects System–Rank Theorem with geometry. |  |
 | 2.2.6 | Good food for thought about different RREF possibilities. |  |
@@ -34,7 +34,7 @@ Source: MATH 115 Course Notes (September 9, 2026 revision).
 
 ## Chapter 3
 | **#** | **Why it's good** | **Notes** |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | 3.2.3 | Tests understanding of matrix-vector products; solving for vector unknowns. |  |
 | 3.3.3,<br>3.3.4,<br>3.3.5 | Thinking generally about systems of linear equations. |  |
 | 3.4.2(c) | Manipulating transpose, matrix multiplication, and dot product. |  |
